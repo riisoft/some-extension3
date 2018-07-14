@@ -1,0 +1,13 @@
+{
+    "name": "riisoft/some-extension3",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "~3.0.0"
+    },
+    "authors": [
+        {
+            "name": "Robert Korulczyk",
+            "email": "robert@korulczyk.pl"
+        }
+    ]
+}
